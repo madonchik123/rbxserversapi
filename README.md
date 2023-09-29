@@ -12,7 +12,7 @@
 - `500 Internal Server Error`: Returns an error message if an error occurs.
 
 **Example Request:**
-- `GET /quicklaunch/12345`
+`GET /quicklaunch/12345`
 **Example Response:**
 ```json
 {
