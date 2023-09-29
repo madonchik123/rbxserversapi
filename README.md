@@ -13,6 +13,7 @@
 
 **Example Request:**
 `GET /quicklaunch/12345`
+
 **Example Response:**
 ```json
 {
