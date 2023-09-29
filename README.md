@@ -12,8 +12,10 @@
 - `500 Internal Server Error`: Returns an error message if an error occurs.
 
 **Example Request:**
+
 `GET /quicklaunch/12345`
-\n**Example Response:**
+
+**Example Response:**
 ```json
 {
   "quicklaunch_url": "https://www.roblox.com/games/12345/gamename?privateserverlinkcode=abcde"
