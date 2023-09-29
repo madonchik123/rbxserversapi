@@ -13,8 +13,7 @@
 
 **Example Request:**
 `GET /quicklaunch/12345`
-
-**Example Response:**
+\n**Example Response:**
 ```json
 {
   "quicklaunch_url": "https://www.roblox.com/games/12345/gamename?privateserverlinkcode=abcde"
